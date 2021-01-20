@@ -1,0 +1,266 @@
+body{
+
+  background-color:  hsl(210, 46%, 95%)
+}
+.bg{position: absolute;
+  top: 10px;
+  right: 70px;
+  height: 70px;
+}
+.Daniel{
+  position: absolute;
+  background-color: hsl(263, 55%, 52%);
+  width: 430px;
+  height: 230px;
+  border-style: none;
+  border-radius:10px;
+  top: 130px;
+  left: 250px;
+}
+.dan-photo{
+  position: relative;
+  top: 20px;
+  left: 30px;
+  border-radius:20px;
+  width: 35px;
+}
+.DC{
+  position:relative;
+  right: 250px;
+  top: 5px;
+  color:white;
+  float: right;
+  width: 25%;
+  opacity: 80%;
+
+}
+.vg{
+  position: relative;
+  right: 100px;
+  top: 24px;
+  color: white;
+  float: right;
+width:35%;
+opacity: 40%;
+
+}
+h3{
+  position: relative;
+  left: 30px;
+  top: 15px;
+  color: white;
+  font-size: 15px;
+  width: 90%;
+}
+.D-paragraph{
+  position: relative;
+  top: 15px;
+  right: 10px;
+  left:30px;
+  font-size: 10px;
+  width: 370px;
+  color: white;
+  opacity: 60%;
+
+}
+.Jonathan{
+  position: absolute;
+  background-color: hsl(217, 19%, 35%);
+  width: 240px;
+  height: 230px;
+  border-style: none;
+  border-radius:10px;
+  top: 130px;
+  left: 710px;
+}
+
+.jon-photo{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  border-radius:20px;
+  width: 40px;
+}
+.jon{
+  position:relative;
+  right: 50px;
+  top: 5px;
+  color:white;
+  float: right;
+  width: 50%%;
+  opacity: 80%;
+}
+.ver{
+  position: relative;
+  right: 20px;
+  bottom: 25px;
+  color: white;
+  float: right;
+width:60%;
+opacity: 40%;
+}
+.j{
+  position: absolute;
+  width: 160px;
+  top: 60px;
+  left: 20px;
+}
+.j-paragraph{
+  position: absolute;
+  font-size: 10px;
+  width: 70%;
+  color: white;
+  opacity: 60%;
+top: 130px;
+left: 20px;
+}
+.Jeanette{
+  position: absolute;
+background-color: hsl(0, 0%, 100%);
+width: 220px;
+height: 210px;
+border-style: none;
+border-radius:10px;
+top: 370px;
+left: 250px;
+}
+.jean-photo{
+  position: relative;
+  top: 10px;
+  left: 20px;
+  border-radius:20px;
+  width: 40px;
+}
+.jean{
+  position:relative;
+  right: 40px;
+  top: 6px;
+  color:black;
+  float: right;
+  width: 50%%;
+  opacity: 80%;
+}
+.veri{
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+  top: 20px;
+  color: black;
+  float: right;
+width:60%;
+opacity: 40%;
+}
+.h{
+  position:relative;
+  top: 15px;
+  left: 20px;
+  color: black;
+  width: 140px;
+}
+.jeanette-paragraph{
+position: relative;
+top: 10px;
+left: 15px;
+font-size: 10px;
+width: 60%;
+}
+.Patrick{
+position: absolute;
+background-color: hsl(219, 29%, 14%);
+width: 445px;
+height: 210px;
+border-style: none;
+border-radius:10px;
+top: 370px;
+left: 505px;
+
+}
+.patrick-photo{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  border-radius:20px;
+  width: 40px;
+}
+.patrick{
+  position:relative;
+  right:270px;
+  top: 5px;
+  color:white;
+  float: right;
+  width: 50%%;
+  opacity: 80%;
+}
+.Abrams{
+  position: absolute;
+  bottom: 10px;
+  right: 110px;
+  top: 25px;
+  color: white;
+  float: right;
+width:60%;
+opacity: 40%;
+}
+.Awesome{
+position: relative;
+right: 10px;
+width: 90%;
+}
+.patrick-paragraph{
+  position: relative;
+  top: 10px;
+  left: 30px;
+color: white;
+font-size: 10px;
+width: 370px;
+}
+.Kira{
+position: absolute;
+background-color: hsl(0, 0%, 100%);
+width: 250px;
+height: 450px;
+border-style: none;
+border-radius:10px;
+top: 130px;
+right: 320px;
+
+
+}
+.kira-photo{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  border-radius:20px;
+  width: 40px;
+}
+.kira{
+  position:relative;
+  right:100px;
+  top: 5px;
+  color:black;
+  float: right;
+  width: 50%%;
+  opacity: 80%;
+}
+.ira{
+  position: absolute;
+  bottom: 10px;
+  right: 30px;
+  top: 25px;
+  color:black;
+  float: right;
+width:60%;
+opacity: 40%;
+}
+.such{
+  position: relative;
+  color: black;
+  width:160px;
+}
+.kira-paragraph{
+position: relative;
+top: 20px;
+font-size: 10px;
+width: 60%;
+left: 30px;
+}
